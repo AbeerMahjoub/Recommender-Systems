@@ -2,9 +2,8 @@
 
 ![movies](https://github.com/AbeerMahjoub/Recommender-Systems/blob/main/pic.jpg?raw=true)
 
-This repo contains some exercises on different recommender system type included in *Hands-On	Recommendation	Systems	with	Python* book:
-  ## Data:
-     from  [Kggle](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset).
+**This repo contains some exercises on different recommender system type included in *Hands-On	Recommendation	Systems	with	Python* book:**
+
 
 - ## Simple Recommender:
 
@@ -13,3 +12,5 @@ This repo contains some exercises on different recommender system type included 
 - ## Knowledge-based Recommender:
   
   asking the user about his/her preferences like (genre, duration, timline, etc) then apply a simple recommender on movies that satisfy these conditions.
+
+## Data: [Kaggle](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset).
